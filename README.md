@@ -1,16 +1,22 @@
-<sup><sub><sup><sub>Hi there 👋</sub></sup></sub></sup>
+```
+                                                     .
+                                   '              _ / \ _
+                                                 \   -   /
+                              '                 <  (   )  >                           *        *
+                                  '              /_  -  _\
+                              '      '              \ /                                      *   *
+                                 "                   '                                   *
+                             '  , ',  ,  '       o   q  o                ,        *           *
+                             ,  \ / , \ __,    o  \ /  o \__p    ,  \ /   \ __        \ / * \ __   *
+                            ,_\__|,_ \/,   ,   q_\_o|__p\/   o   _\__|__ \/    ,   _\__|__ \/   *
+                            ' ,/ \ / Y |_ /_,   q/ \ / Y |_ /_p     / \ / Y |_ /_   * / \ / Y |_ /_
+                            " ,_,_Y | /  \,     o_ _Y | /  \o     ,_ _Y | /  \       _ _Y | /  \
+                               ,/ |  |  '        o/ |  | o          / |  |         *  / |  |
+                             '    |: | '  "         |: |              |: |              |: |  *
+                               '  |  |  '           |  |              |  |              |  |   _
+                             "    | .|'  '          | .|          _=_ | .|           *  D .| _|=|_
+                              ' _'|  | "_           |  |          (") |  |             /|  |  (")
+                               (o)|: | (v)          |: |        .-|Y|-|: | _,_       _/ |: |-( : )-;
+                              _\|/._  \\|/__   |||||._  \ ||_     / \/_ ._((|))    _(_(/. _.( _ _ )
 
-<!--
-**TalalMash/TalalMash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
